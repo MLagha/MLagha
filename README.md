@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m Mohamed
 - 🌱 I’m a fast learner and always seeking to develop my skills
-- 💬 I’m mainly looking to collaborate on projects related to Swift, C# and Python (but feel free to reach out for any ideas)
+- 💬 I’m mainly looking to collaborate on projects related to Java, Swift, C# and Python (but feel free to reach out for any ideas)
 - 📫 How to reach me: mohamedlagha27@gmail.com
 
 <!---
