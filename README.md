@@ -5,7 +5,7 @@ I’m Mohamed
 - 💬 I’m mainly looking to collaborate on projects related to Java, Python, C# and Swift (feel free to reach out for any ideas)
 - 📫 How to reach me: mohamedlagha27@gmail.com
 
-<img src="https://user-images.githubusercontent.com/106883160/190015921-bdd9915c-0a00-425f-bf28-d3fa9e4f38af.png" width=15% height=15%>
+<img src="https://user-images.githubusercontent.com/106883160/190015921-bdd9915c-0a00-425f-bf28-d3fa9e4f38af.png" width=15% height=15%>   <img src="https://user-images.githubusercontent.com/106883160/190018325-b3874ee2-5bb5-4d12-a286-bf8acd872a4d.png" width=11% height=11%>
 
 <!---
 MLagha/MLagha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
